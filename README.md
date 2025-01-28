@@ -29,20 +29,7 @@ The **Human Value Detector** is an interactive web application designed to analy
 - **Visualization**: Presents predictions in an easy-to-understand bar chart.
 - **Extensible**: Easily add more features or integrate into larger projects.
 
-## Demo
-
-![App Screenshot](https://github.com/your-username/human-value-detector/blob/main/screenshots/demo.png)
-
-*Figure 1: Screenshot of the Human Value Detector application.*
-
-## Installation
 
 ### Prerequisites
 
 - **Python 3.7 or higher**: Ensure you have Python installed. You can download it from [here](https://www.python.org/downloads/).
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/human-value-detector.git
-cd human-value-detector
